@@ -1,0 +1,47 @@
+LAB01:
+ - manager01-cicd01-uwt8hzqx.srv.ravcloud.com
+ - worker01-cicd01-mz1s0h3l.srv.ravcloud.com
+ - jenkins-cicd01-lvms2hni.srv.ravcloud.com
+ - gitlab-cicd01-3rnysou6.srv.ravcloud.com
+
+LAB02:
+ - manager01-cicd02-jcosnekt.srv.ravcloud.com
+ - worker01-cicd02-i0uo1icn.srv.ravcloud.com
+ - jenkins-cicd02-admxaylz.srv.ravcloud.com
+ - gitlab-cicd02-bbr62fbz.srv.ravcloud.com
+
+LAB03:
+ - manager01-cicd03-kxnxmfuo.srv.ravcloud.com
+ - worker01-cicd03-srejiqiy.srv.ravcloud.com
+ - jenkins-cicd03-cgw40jkp.srv.ravcloud.com
+ - gitlab-cicd03-6ztly4cg.srv.ravcloud.com
+
+LAB04:
+ - manager01-cicd04-r48hfh0h.srv.ravcloud.com
+ - worker01-cicd04-jgat8f0s.srv.ravcloud.com
+ - jenkins-cicd04-yjjvteki.srv.ravcloud.com
+ - gitlab-cicd04-9ixthstd.srv.ravcloud.com
+ 
+LAB05: (Nowy klucz z poprzedniego labu)
+ - manager01-cicd05-xcrvhbcv.srv.ravcloud.com
+ - worker01-cicd05-skki1xw2.srv.ravcloud.com
+ - jenkins-cicd05-rlbxc18f.srv.ravcloud.com
+ - gitlab-cicd05-m8udfbgu.srv.ravcloud.com
+ 
+LAB06: (Nowy klucz z poprzedniego labu)
+ - manager01-cicd06-yr8rex8u.srv.ravcloud.com
+ - worker01-cicd06-zoq0lsed.srv.ravcloud.com
+ - jenkins-cicd06-auznton1.srv.ravcloud.com
+ - gitlab-cicd06-laxguxiq.srv.ravcloud.com
+
+LAB07: (Nowy klucz z poprzedniego labu)
+ - manager01-cicd07-ugiwgywr.srv.ravcloud.com
+ - worker01-cicd07-s9o2zhix.srv.ravcloud.com
+ - jenkins-cicd07-5yvlksw7.srv.ravcloud.com
+ - gitlab-cicd07-9rlkjznl.srv.ravcloud.com
+
+LAB08: (Nowy klucz z poprzedniego labu)
+ - manager01-cicd08-rn9hfyiy.srv.ravcloud.com
+ - worker01-cicd08-yh7ae8s4.srv.ravcloud.com
+ - jenkins-cicd08-cc9bddpn.srv.ravcloud.com
+ - gitlab-cicd08-htwdkmqo.srv.ravcloud.com
